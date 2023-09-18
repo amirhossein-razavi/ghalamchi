@@ -1,0 +1,12 @@
+.loadingContainer {
+    width: 100% !important;
+    height: 100vh !important;
+    z-index: 9999999 !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loadingContainer p {
+    color: #fff !important;
+}
